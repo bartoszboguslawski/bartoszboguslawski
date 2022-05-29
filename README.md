@@ -5,5 +5,4 @@ I have been learning Swift since January 2022, practicing passionately almost ev
 - 🌱 I’m currently learning Swift
 
 ### Here is example of my work:
-My first public app that i made
 <img src="https://github.com/bartoszboguslawski/bartoszboguslawski/blob/main/weather.gif" width="300">
