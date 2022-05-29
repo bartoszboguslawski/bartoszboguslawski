@@ -5,4 +5,6 @@ I have been learning Swift since January 2022, practicing passionately almost ev
 - 🌱 I’m currently learning Swift
 
 ### Here is example of my work:
-<img src="https://github.com/bartoszboguslawski/bartoszboguslawski/blob/main/weather.gif" width="300">
+<img src="https://github.com/bartoszboguslawski/bartoszboguslawski/blob/main/weather.gif" width="250">
+
+https://github.com/bartoszboguslawski/spark-weather
