@@ -3,3 +3,7 @@
 I have been learning Swift since January 2022, practicing passionately almost every day. I study Management Engineering on Wroclaw University of Science and Technology. I genuinely enjoy making mobile apps.
 
 - 🌱 I’m currently learning Swift
+
+### Here is example of my work:
+My first public app that i made
+<img src="https://github.com/bartoszboguslawski/bartoszboguslawski/blob/main/weather.gif">
