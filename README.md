@@ -6,6 +6,3 @@ I have been learning Swift since January 2022, practicing passionately almost ev
 
 ### Here are examples of my finished projects:
 <img src="https://github.com/bartoszboguslawski/bartoszboguslawski/blob/main/Calculator.gif" width="250"> <img src="https://github.com/bartoszboguslawski/bartoszboguslawski/blob/main/weather.gif" width="250">
-
-
-https://github.com/bartoszboguslawski/spark-weather
