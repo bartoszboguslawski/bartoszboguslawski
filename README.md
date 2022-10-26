@@ -9,8 +9,3 @@ I have been learning Swift since January 2022, practicing passionately almost ev
 https://github.com/bartoszboguslawski/Spark-Weather
 
 https://user-images.githubusercontent.com/101945717/187916862-5d065ce3-b42a-4044-9d1f-667a96dd7065.mp4
-
-
-https://github.com/bartoszboguslawski/Calculator
-
-<img src="https://github.com/bartoszboguslawski/bartoszboguslawski/blob/main/Calculator.gif" width="250">
