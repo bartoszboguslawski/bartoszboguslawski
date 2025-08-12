@@ -1,9 +1,14 @@
-### Hello 👋, my name is Bartek
-#### I am quick-learning student from Poland.
-I have been learning Swift since January 2022, practicing passionately almost every day. I study Management Engineering in Wroclaw University of Science and Technology. I genuinely enjoy making mobile apps.
+### 👋 Hi, I'm Bartek
+#### I am AI-Powered Automation Developer | Low-Code Solutions Architect
 
-### Here are examples of my finished projects:
+🤖 Passionate about creating intelligent automation solutions and AI agents that transform business processes
 
-https://github.com/bartoszboguslawski/Spark-Weather
+🔧 What I do:
+- Build sophisticated AI agents for data analysis and business decision support
+- Design enterprise automation workflows using n8n and Make.com
+- Develop full-stack applications on low-code platforms (Bubble.io, Webflow)
+ -Integrate AI services (OpenAI, Anthropic) with business systems
 
-https://user-images.githubusercontent.com/101945717/187916862-5d065ce3-b42a-4044-9d1f-667a96dd7065.mp4
+🛠️ Tech Stack: JavaScript, **Python**, Swift, SQL | **n8n**, Make.com | AI/ML APIs | Bubble.io, Webflow 
+
+🎯 Always exploring new ways to bridge human creativity with artificial intelligence capabilities
