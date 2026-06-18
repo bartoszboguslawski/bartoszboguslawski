@@ -64,13 +64,6 @@ Embeddings · vector & semantic search · rerankers · chunking strategies
 
 ---
 
-## 📊 GitHub Stats
-
-![Bartosz's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartoszboguslawski&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bartoszboguslawski&layout=compact&hide_border=true)
-
----
-
 ## 🤝 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bartosz-bogusławski-29339b233)
